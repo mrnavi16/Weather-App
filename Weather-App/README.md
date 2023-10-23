@@ -1,4 +1,4 @@
-## ⭐ Weather App ⭐
+##  Weather App 
 
 Designed and developed a web application that provides real-time weather information for a given location.
 
@@ -16,11 +16,8 @@ Designed and developed a web application that provides real-time weather informa
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Indra Shekhar](https://www.linkedin.com/in/indra-shekhar/)
-- **Twitter** - [@Indra684](https://twitter.com/Indra684)
+- **LinkedIn** - [Navneet Kumar](https://www.linkedin.com/in/mrnavneet/)
 
-## 📌 Acknowledgments
 
-- Course Instructor - [Love Babbar-CodeHelp](https://www.linkedin.com/in/love-babbar-38ab2887/)
-- Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
+
 
